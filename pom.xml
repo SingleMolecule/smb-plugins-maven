@@ -11,11 +11,11 @@
 		<relativePath />
 	</parent>
 
-	<groupId>sc.fiji</groupId>
+	<groupId>smb.tools</groupId>
 	<artifactId>smb_plugins</artifactId>
 	<version>SNAPSHOT</version>
 
-	<name>plugins/Process_Pixels.jar</name>
+	<name>plugins/smb_plugins.jar</name>
 
 	<developers>
 		<developer>
@@ -38,17 +38,16 @@
 			<organizationUrl>http://singlemolecule.nl</organizationUrl>
 			<roles>
 				<role>developer</role>
-				<role>maintainer</role>
 			</roles>
 			<timezone>+1</timezone>
 		</developer>
 	</developers>
 	
 	<scm>
-		<connection>scm:git:git://github.com/SingleMolecule/smb-plugins</connection>
-		<developerConnection>scm:git:git@github.com:SingleMolecule/smb-plugins	</developerConnection>
+		<connection>scm:git:git://github.com/SingleMolecule/smb-plugins-maven</connection>
+		<developerConnection>scm:git:git@github.com:SingleMolecule/smb-plugins-maven</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://github.com/SingleMolecule/smb-plugins</url>
+		<url>https://github.com/SingleMolecule/smb-plugins-maven</url>
 	</scm>
 
 	<properties>
