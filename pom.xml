@@ -27,7 +27,6 @@
 			<organizationUrl>http://singlemolecule.nl</organizationUrl>
 			<roles>
 				<role>developer</role>
-				<role>maintainer</role>
 			</roles>
 			<timezone>+1</timezone>
 		</developer>
@@ -38,6 +37,7 @@
 			<organizationUrl>http://singlemolecule.nl</organizationUrl>
 			<roles>
 				<role>developer</role>
+				<role>maintainer</role>
 			</roles>
 			<timezone>+1</timezone>
 		</developer>
